@@ -18,6 +18,8 @@ This is a plugin built for ProM tool as part of the course : Smart Process Analy
  
 ![plugin image][1]
 
+7) Hit `start` button to get the prediction results
+
  
 
 [1]: https://github.com/nagaraj-bahubali/Uni/blob/master/SmartProcessAnalytics/plugin_image.png
