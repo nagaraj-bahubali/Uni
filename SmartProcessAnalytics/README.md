@@ -3,10 +3,10 @@ This is a plugin built for ProM tool as part of the course : Smart Process Analy
 
 **Instructions to run the plugin**
 1) Setup the ProM project in your eclipse with the help of below links
-   > \* https://svn.win.tue.nl/trac/prom/wiki/setup/HowToBecomeAProMDeveloper
-   > \* https://svn.win.tue.nl/trac/prom/wiki/ManuallyCheckingOutProM
-   > \* https://svn.win.tue.nl/trac/prom/wiki/setup/RunningProM
-   > \* https://svn.win.tue.nl/trac/prom/wiki/Plugins
-   > \* https://www.promtools.org/doku.php?id=troubleshooting:start
+   > https://svn.win.tue.nl/trac/prom/wiki/setup/HowToBecomeAProMDeveloper  <br />
+   > https://svn.win.tue.nl/trac/prom/wiki/ManuallyCheckingOutProM  <br />
+   > https://svn.win.tue.nl/trac/prom/wiki/setup/RunningProM  <br />
+   > https://svn.win.tue.nl/trac/prom/wiki/Plugins  <br />
+   > https://www.promtools.org/doku.php?id=troubleshooting:start  <br />
  
 
