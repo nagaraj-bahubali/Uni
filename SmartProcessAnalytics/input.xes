@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+
+    <string key="concept:name" value="Input File"/>
+
+    <!-- Provide the running process instance here -->
+	<trace>
+		<string key="description" value="instance with id null"/>
+		<event>
+			<string key="concept:name" value="Start trip"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End trip"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Permit SUBMITTED by EMPLOYEE"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Permit FINAL_APPROVED by SUPERVISOR"/>
+		</event>
+		<event>
+			<string key="concept:name" value="Declaration SUBMITTED by EMPLOYEE"/>
+		</event>
+		
+	</trace>  
+
+    <!-- Provide the n-value (ngram) here -->
+    <!-- NOTE : the value for n should not be greater than the length of running process instance -->
+    <trace>
+       <event>
+           <string key="concept:name" value="4"/>
+        </event>
+    </trace>
+</log>
