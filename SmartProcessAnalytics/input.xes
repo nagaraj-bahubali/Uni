@@ -25,7 +25,7 @@
 	</trace>  
 
     <!-- Provide the n-value (ngram) here -->
-    <!-- NOTE : the value for n should not be greater than the length of running process instance -->
+    <!-- NOTE : the value for n should not be greater than the length of running process instance (for ex: 5 in above case)-->
     <trace>
        <event>
            <string key="concept:name" value="4"/>
