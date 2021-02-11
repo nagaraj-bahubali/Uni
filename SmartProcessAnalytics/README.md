@@ -13,7 +13,11 @@ This is a plugin built for ProM tool as part of the course : Smart Process Analy
 3) Run the file `NgramPlugin.java` to launch ProM application.
 4) You can use sample log file (`events_log.xes`) and input file (`input.xes`) as input to the plugin.
 5) The running process instance and n-value has to be updated in `input.xes`.
-6) Once everything is set you should import these files into ProM.
+6) Once everything is set you should import these files into ProM. It should look like below
+ 
+ 
+![plugin image][1]
 
  
 
+[1]: https://github.com/nagaraj-bahubali/Uni/blob/master/SmartProcessAnalytics/plugin_image.png
