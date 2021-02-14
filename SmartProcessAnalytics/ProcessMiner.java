@@ -202,7 +202,7 @@ public class ProcessMiner {
 		}
 		
 		
-		JFrame f=new JFrame();    
+	    JFrame f=new JFrame();    
 	    JTable jt=new JTable(getTableData(results),column);    
 	    TableColumnModel columnModel = jt.getColumnModel();
 	    columnModel.getColumn(0).setPreferredWidth(400);
